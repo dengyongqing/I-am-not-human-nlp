@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/chat"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#37383b",
+    "navigationBarTitleText": "水源投顾",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
